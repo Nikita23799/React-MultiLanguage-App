@@ -1,0 +1,23 @@
+{
+  "HELLO_WORLD": "Hello World!",
+  "THANK_YOU": "Thank you!",
+  "REGISTER":"登録!",
+  "REGISTRATION_FORM":"登録用紙",
+  "FIRST_NAME":"ファーストネーム",
+  "LAST_NAME":"苗字",
+  "EMAIL_ADDRESS":"電子メールアドレス",
+  "AGE":"年",
+  "CONTACT":"コンタクト",
+  "PASSWORD":"パスワード",
+  "DATE_OF_BIRTH":"生年月日",
+  "ALREADY_REGISTER":"すでに登録しています",
+  "SIGN_IN":"ログイン",
+  "REQUIRED":"これは必須です",
+  "CHARACTER_ONLY":"文字のみを入力してください",
+  "ENTER_CHARACTER_ONLY_MIN_LENGTH_5":"文字を入力し、最小の長さは5です",
+  "INVALID_EMAIL":"有効な電子メールを入力してください",
+  "NUMBERS_ONLY":"数字のみを入力してください",
+  "ENTER_NUMBER_ONLY_LENGTH_10":"文字を入力し、長さは10です",
+  "INVALID_PASSWORD":"有効なパスワードを入力してください",
+  "SUBMITTED":"提出された"
+}
